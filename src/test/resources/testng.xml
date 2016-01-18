@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GoogleSearch">
+    <test name="searchTest">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="url" value="http://www.google.com"/>
+        <parameter name="pattern" value="Sony"/>
+        <classes>
+            <class name="com.googlepage.tests.SearchTest">
+            </class>
+        </classes>
+    </test>
+</suite>
