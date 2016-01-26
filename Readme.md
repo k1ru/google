@@ -1,4 +1,3 @@
-![alt tag](https://media.licdn.com/media/p/3/005/084/009/3f806ff.png)
 # Google Search Test
 A small tutorial task for selenium+testng+maven relations used for testing google.com search
 # Preconditions
